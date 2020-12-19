@@ -1,0 +1,6 @@
+AppID: 23178422
+API Key: tzO9CzSsmGg08xwFUEEOzSsQ
+Secret Key: B6Ls39Z7182MrkgZbRlpgU7PIwDhLpHd
+
+Group ID: 01
+User ID: yu
