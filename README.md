@@ -6,12 +6,15 @@ A simple program about the face recognition
 
 ## Env
 * `Python 3.7.3`
+* `pyttsx3 2.90`
 * `OpenCV 4.4.0`
 * `baidu-aip`
 * `Baidu AIP SDK( aip-python-sdk-2.2.15 )`
 
 ## How To Run
 you need to install the dependencies firstly
+> $ pip install pyttsx3
+
 > $ pip install baidu-aip
 
 > $ python setup.py install
