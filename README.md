@@ -15,11 +15,13 @@ A simple program about the face recognition
 you need to install the dependencies firstly
 > $ pip install pyttsx3
 
+> $ pip install opencv-python
+
+> $ cd aip-python-sdk-2.2.15
+
 > $ pip install baidu-aip
 
 > $ python setup.py install
-
-> $ pip install opencv-python
 
 then run it
 > $ python faceRecognition.py
