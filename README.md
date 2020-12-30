@@ -23,9 +23,9 @@
 
 > $ python setup.py install
 
-1. Then open the `config.py` file and add your Baidu API configuration information into it.
+2. Then open the `config.py` file and add your Baidu API configuration information into it.
 
-2. Finally run it.
+3. Finally run it.
 > $ python faceRecognition.py
 
 ## Thanks
