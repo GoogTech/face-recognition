@@ -1,7 +1,7 @@
 '''
 Author: GoogTech
 Date: 2020-12-18 19:44:25
-LastEditTime: 2020-12-19 15:09:01
+LastEditTime: 2020-12-30 16:44:14
 Description: 调用百度 AI 的一个简易人脸识别程序
 Version: 0.0.1
 '''
@@ -12,11 +12,8 @@ import time
 import cv2
 import os
 import pyttsx3 as pyttsx
+from config import *
 
-# 百度人脸识别API账号信息
-APP_ID = '23178422'
-API_KEY = 'tzO9CzSsmGg08xwFUEEOzSsQ'
-SECRET_KEY = 'B6Ls39Z7182MrkgZbRlpgU7PIwDhLpHd'
 # 创建一个客户端用以访问百度云
 client = AipFace(APP_ID, API_KEY, SECRET_KEY)
 # 图像编码方式
