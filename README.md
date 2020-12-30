@@ -1,5 +1,5 @@
 # Face Recognition
-A simple program about the face recognition
+📷 A Simple Face Recognition Program Which Base On Baidu AIP And Output The Voice Prompt By Pyttsx3.
 
 ## OS
 * `Windows 10`
@@ -11,8 +11,8 @@ A simple program about the face recognition
 * `baidu-aip`
 * `Baidu AIP SDK( aip-python-sdk-2.2.15 )`
 
-## How To Run
-you need to install the dependencies firstly
+## How To Run On Windows 10
+1. Firstly you need to install some dependencies.
 > $ pip install pyttsx3
 
 > $ pip install opencv-python
@@ -23,7 +23,9 @@ you need to install the dependencies firstly
 
 > $ python setup.py install
 
-then run it
+1. Then open the `config.py` file and add your Baidu API configuration information into it.
+
+2. Finally run it.
 > $ python faceRecognition.py
 
 ## Thanks
